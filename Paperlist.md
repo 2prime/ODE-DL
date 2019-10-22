@@ -22,6 +22,8 @@ Haber E, Ruthotto L. Stable architectures for deep neural networks[J]. Inverse P
 
 Lu Y. et al., Beyond Finite Layer Neural Network: Bridging Deep Architects and Numerical Differential Equations, ICML 2018.
 
+Chang B, Chen M, Haber E, et al. Antisymmetricrnn: A dynamical system view on recurrent neural networks[J]. arXiv preprint arXiv:1902.09689, 2019.(ICLR2019)
+
 Latent ODEs for Irregularly-Sampled Time Series
 Yulia Rubanova, Ricky T. Q. Chen, David Duvenaud
 Advances in Neural Information Processing Systems (NeurIPS).
@@ -31,6 +33,8 @@ Chen R T Q, Duvenaud D. Neural Networks with Cheap Differential Operators[C]//20
 Dupont E, Doucet A, Teh Y W. Augmented neural odes[J]. arXiv preprint arXiv:1904.01681, 2019.
 
 Zhong Y D, Dey B, Chakraborty A. Symplectic ODE-Net: Learning Hamiltonian Dynamics with Control[J]. arXiv preprint arXiv:1909.12077, 2019.
+
+Che Z, Purushotham S, Cho K, et al. Recurrent neural networks for multivariate time series with missing values[J]. Scientific reports, 2018, 8(1): 6085.
 
 ###### Modeling other networks
 
@@ -127,6 +131,8 @@ Advances in Neural Information Processing Systems (NeurIPS).
 
 Quaglino A, Gallieri M, Masci J, et al. Accelerating Neural ODEs with Spectral Elements[J]. arXiv preprint arXiv:1906.07038, 2019.
 
+Yıldız Ç, Heinonen M, Lähdesmäki H. ODE $^ 2$ VAE: Deep generative second order ODEs with Bayesian neural networks[J]. arXiv preprint arXiv:1905.10994, 2019.(Neurips2019)
+
 #### Image Processing
 
 
@@ -165,3 +171,5 @@ Liu R, Lin Z, Zhang W, et al. Learning PDEs for image restoration via optimal co
 #### Review Paper
 
 Liu G H, Theodorou E A. Deep learning theory review: An optimal control and dynamical systems perspective[J]. arXiv preprint arXiv:1908.10920, 2019.
+
+
