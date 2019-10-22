@@ -127,6 +127,17 @@ Advances in Neural Information Processing Systems (NeurIPS).
 
 Quaglino A, Gallieri M, Masci J, et al. Accelerating Neural ODEs with Spectral Elements[J]. arXiv preprint arXiv:1906.07038, 2019.
 
+#### Image Processing
+
+
+Liu R, Lin Z, Zhang W, et al. Learning PDEs for image restoration via optimal control[C]//European Conference on Computer Vision. Springer, Berlin, Heidelberg, 2010: 115-128.
+
+Chen Y, Yu W, Pock T. On learning optimized reaction diffusion processes for effective image restoration CVPR2015
+
+Xiaoshuai Zhang*, Yiping Lu*, Jiaying Liu, Bin Dong. "Dynamically Unfolding Recurrent Restorer: A Moving Endpoint Control Method for Image Restoration" Seventh International Conference on Learning Representations(ICLR) 2019(*equal contribution)
+
+
+
 #### Deep Learning And PDE
 
 Han J, Jentzen A, Weinan E. Solving high-dimensional partial differential equations using deep learning[J]. Proceedings of the National Academy of Sciences, 2018, 115(34): 8505-8510.
@@ -140,6 +151,16 @@ Raissi M. Forward-backward stochastic neural networks: Deep learning of high-dim
 Sun Y, Zhang L, Schaeffer H. NeuPDE: Neural Network Based Ordinary and Partial Differential Equations for Modeling Time-Dependent Data[J]. arXiv preprint arXiv:1908.03190, 2019.
 
 Yufei Wang, Ziju Shen, Zichao Long and Bin Dong, Learning to Discretize: Solving 1D Scalar Conservation Laws via Deep Reinforcement Learning, arXiv: 1905.11079, 2019.
+
+###### very early work for learning pdes
+Zhu S C, Mumford D B. Prior learning and Gibbs reaction-diffusion[C]. Institute of Electrical and Electronics Engineers, 1997.
+
+Gilboa G, Sochen N, Zeevi Y Y. Estimation of optimal PDE-based denoising in the SNR sense[J]. IEEE Transactions on Image Processing, 2006, 15(8): 2269-2280.
+
+Bongard J, Lipson H. Automated reverse engineering of nonlinear dynamical systems[J]. Proceedings of the National Academy of Sciences, 2007, 104(24): 9943-9948.
+
+Liu R, Lin Z, Zhang W, et al. Learning PDEs for image restoration via optimal control[C]//European Conference on Computer Vision. Springer, Berlin, Heidelberg, 2010: 115-128.
+
 
 #### Review Paper
 
