@@ -144,21 +144,7 @@ Xiaoshuai Zhang*, Yiping Lu*, Jiaying Liu, Bin Dong. "Dynamically Unfolding Recu
 
 
 
-#### Deep Learning And PDE
-
-Han J, Jentzen A, Weinan E. Solving high-dimensional partial differential equations using deep learning[J]. Proceedings of the National Academy of Sciences, 2018, 115(34): 8505-8510.
-
-Raissi M, Perdikaris P, Karniadakis G E. Physics informed deep learning (part i): Data-driven solutions of nonlinear partial differential equations[J]. arXiv preprint arXiv:1711.10561, 2017.
-
-Long Z, Lu Y, Ma X, et al. PDE-net: Learning PDEs from data[J]. arXiv preprint arXiv:1710.09668, 2017.
-
-Raissi M. Forward-backward stochastic neural networks: Deep learning of high-dimensional partial differential equations[J]. arXiv preprint arXiv:1804.07010, 2018.
-
-Sun Y, Zhang L, Schaeffer H. NeuPDE: Neural Network Based Ordinary and Partial Differential Equations for Modeling Time-Dependent Data[J]. arXiv preprint arXiv:1908.03190, 2019.
-
-Yufei Wang, Ziju Shen, Zichao Long and Bin Dong, Learning to Discretize: Solving 1D Scalar Conservation Laws via Deep Reinforcement Learning, arXiv: 1905.11079, 2019.
-
-###### very early work for learning pdes
+###### very early work for learning ode/pdes
 Zhu S C, Mumford D B. Prior learning and Gibbs reaction-diffusion[C]. Institute of Electrical and Electronics Engineers, 1997.
 
 Gilboa G, Sochen N, Zeevi Y Y. Estimation of optimal PDE-based denoising in the SNR sense[J]. IEEE Transactions on Image Processing, 2006, 15(8): 2269-2280.
