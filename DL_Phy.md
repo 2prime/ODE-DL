@@ -13,3 +13,8 @@ Raissi M. Forward-backward stochastic neural networks: Deep learning of high-dim
 Sun Y, Zhang L, Schaeffer H. NeuPDE: Neural Network Based Ordinary and Partial Differential Equations for Modeling Time-Dependent Data[J]. arXiv preprint arXiv:1908.03190, 2019.
 
 Yufei Wang, Ziju Shen, Zichao Long and Bin Dong, Learning to Discretize: Solving 1D Scalar Conservation Laws via Deep Reinforcement Learning, arXiv: 1905.11079, 2019.
+
+
+### Physic Meaningful Embedding
+
+Variational Integrator Networks for Physically Meaningful Embeddings <a href="https://arxiv.org/pdf/1910.09349.pdf">link</a>
