@@ -42,6 +42,9 @@ Tao Y, Sun Q, Du Q, et al. Nonlocal Neural Networks, Nonlocal Diffusion and Nonl
 
 Lu Y, Li Z, He D, et al. Understanding and Improving Transformer From a Multi-Particle Dynamic System Point of View. arXiv preprint arXiv:1906.02762, 2019.*(Modeling Transformer like seq2seq learning networks)*
 
+Variational Integrator Networks for Physically Meaningful Embeddings <a href="https://arxiv.org/pdf/1910.09349.pdf">link</a>
+
+
 ###### Changing schemes
 
 Zhang L, Schaeffer H. Forward Stability of ResNet and Its Variants. arXiv preprint arXiv:1811.09885, 2018.
