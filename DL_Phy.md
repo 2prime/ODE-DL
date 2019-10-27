@@ -18,3 +18,17 @@ Yufei Wang, Ziju Shen, Zichao Long and Bin Dong, Learning to Discretize: Solving
 ### Physic Meaningful Embedding
 
 Variational Integrator Networks for Physically Meaningful Embeddings <a href="https://arxiv.org/pdf/1910.09349.pdf">link</a>
+
+### Physics-informed Neural Network Architectures
+
+de Bezenac, E., Pajot, A., & Gallinari, P. (2017). Deep learning for physical processes: Incorporating prior scientific knowledge. arXiv preprint arXiv:1711.07970. (**ICLR 2018**) <a href="https://openreview.net/pdf?id=By4HsfWAZ">link</a>
+
+Lutter, M., Ritter, C., & Peters, J. (2019). Deep lagrangian networks: Using physics as model prior for deep learning. arXiv preprint arXiv:1907.04490. (**ICLR 2019**) <a href="https://arxiv.org/pdf/1907.04490">link</a>
+
+de Avila Belbute-Peres, F., Smith, K., Allen, K., Tenenbaum, J., & Kolter, J. Z. (2018). End-to-end differentiable physics for learning and control. In Advances in Neural Information Processing Systems (pp. 7178-7189). (**NeurIPS 2018**) <a href="https://papers.nips.cc/paper/7948-end-to-end-differentiable-physics-for-learning-and-control.pdf">link</a>
+
+Schütt, K., Kindermans, P. J., Felix, H. E. S., Chmiela, S., Tkatchenko, A., & Müller, K. R. (2017). Schnet: A continuous-filter convolutional neural network for modeling quantum interactions. In Advances in Neural Information Processing Systems (pp. 991-1001). (**NeurIPS 2018**) <a href="https://papers.nips.cc/paper/6700-schnet-a-continuous-filter-convolutional-neural-network-for-modeling-quantum-interactions.pdf">link</a>
+
+### Physics QA
+
+Sachan, M., Dubey, K. A., Mitchell, T. M., Roth, D., & Xing, E. P. (2018). Learning pipelines with limited data and domain knowledge: a study in parsing physics problems. In Advances in Neural Information Processing Systems (pp. 140-151). (**NeurIPS 2018**) <a href="http://papers.nips.cc/paper/7299-learning-pipelines-with-limited-data-and-domain-knowledge-a-study-in-parsing-physics-problems.pdf">link</a>
