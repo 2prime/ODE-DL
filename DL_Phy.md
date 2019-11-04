@@ -29,6 +29,4 @@ de Avila Belbute-Peres, F., Smith, K., Allen, K., Tenenbaum, J., & Kolter, J. Z.
 
 Schütt, K., Kindermans, P. J., Felix, H. E. S., Chmiela, S., Tkatchenko, A., & Müller, K. R. (2017). Schnet: A continuous-filter convolutional neural network for modeling quantum interactions. In Advances in Neural Information Processing Systems (pp. 991-1001). (**NeurIPS 2018**) <a href="https://papers.nips.cc/paper/6700-schnet-a-continuous-filter-convolutional-neural-network-for-modeling-quantum-interactions.pdf">link</a>
 
-### Physics QA
-
-Sachan, M., Dubey, K. A., Mitchell, T. M., Roth, D., & Xing, E. P. (2018). Learning pipelines with limited data and domain knowledge: a study in parsing physics problems. In Advances in Neural Information Processing Systems (pp. 140-151). (**NeurIPS 2018**) <a href="http://papers.nips.cc/paper/7299-learning-pipelines-with-limited-data-and-domain-knowledge-a-study-in-parsing-physics-problems.pdf">link</a>
+Li Y, Wu J, Tedrake R, et al. Learning particle dynamics for manipulating rigid bodies, deformable objects, and fluids[J]. arXiv preprint arXiv:1810.01566, 2018.
