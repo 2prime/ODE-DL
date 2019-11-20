@@ -136,6 +136,8 @@ Quaglino A, Gallieri M, Masci J, et al. Accelerating Neural ODEs with Spectral E
 
 Yıldız Ç, Heinonen M, Lähdesmäki H. ODE $^ 2$ VAE: Deep generative second order ODEs with Bayesian neural networks[J]. arXiv preprint arXiv:1905.10994, 2019.(Neurips2019)
 
+ANODEV2: A Coupled Neural ODE Framework arXiv:1906.04596
+
 #### Image Processing
 
 
