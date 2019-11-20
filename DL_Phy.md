@@ -14,6 +14,8 @@ Sun Y, Zhang L, Schaeffer H. NeuPDE: Neural Network Based Ordinary and Partial D
 
 Yufei Wang, Ziju Shen, Zichao Long and Bin Dong, Learning to Discretize: Solving 1D Scalar Conservation Laws via Deep Reinforcement Learning, arXiv: 1905.11079, 2019.
 
+Turbulence forecasting via Neural ODE <a href="https://arxiv.org/abs/1911.05180">link</a>
+
 
 ### Physic Meaningful Embedding
 
