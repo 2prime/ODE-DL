@@ -16,6 +16,8 @@ Yufei Wang, Ziju Shen, Zichao Long and Bin Dong, Learning to Discretize: Solving
 
 Turbulence forecasting via Neural ODE <a href="https://arxiv.org/abs/1911.05180">link</a>
 
+System Identification with Time-Aware Neural Sequence Models AAAI2020
+
 
 ### Physic Meaningful Embedding
 
