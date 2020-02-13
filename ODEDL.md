@@ -53,6 +53,8 @@ Zhu M, Chang B, Fu C. Convolutional Neural Networks combined with Runge-Kutta Me
 
 Xie X, Bao F, Maier T, Webster C. Analytic Continuation of Noisy Data Using Adams Bashforth ResNet. arXiv:1905.10430, 2019.
 
+Dynamical System Inspired Adaptive Time Stepping Controller for Residual Network Families  AAAI2020
+
 #### Training Algorithm
 
 ###### Adjoint Method
@@ -114,6 +116,8 @@ Liu X, Si S, Cao Q, et al. Neural SDE: Stabilizing Neural ODE Networks with Stoc
 Reshniak V, Webster C. Robust learning with implicit residual networks[J]. arXiv preprint arXiv:1905.10479, 2019.
 
 Wang B, Yuan B, Shi Z, et al. Enresnet: Resnet ensemble via the feynman-kac formalism[J]. arXiv preprint arXiv:1811.10745, 2018.(Neurips2019)
+
+
 
 #### Generative Models
 
