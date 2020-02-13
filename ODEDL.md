@@ -142,6 +142,8 @@ Yıldız Ç, Heinonen M, Lähdesmäki H. ODE $^ 2$ VAE: Deep generative second o
 
 ANODEV2: A Coupled Neural ODE Framework arXiv:1906.04596
 
+Port-Hamiltonian Approach to Neural Network Training CDC19
+
 #### Image Processing
 
 
