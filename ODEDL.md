@@ -55,6 +55,8 @@ Xie X, Bao F, Maier T, Webster C. Analytic Continuation of Noisy Data Using Adam
 
 Dynamical System Inspired Adaptive Time Stepping Controller for Residual Network Families  AAAI2020
 
+Herty M, Trimborn T, Visconti G. Kinetic Theory for Residual Neural Networks[J]. arXiv preprint arXiv:2001.04294, 2020.
+
 #### Training Algorithm
 
 ###### Adjoint Method
@@ -70,6 +72,8 @@ Zhang D, Zhang T, Lu Y, et al. You only propagate once: Painless adversarial tra
 ###### Multi-grid like algorithm
 
 Chang B, Meng L, Haber E, et al. Multi-level residual networks from dynamical systems view[J]. arXiv preprint arXiv:1710.10348, 2017.
+
+Günther S, Ruthotto L, Schroder J B, et al. Layer-parallel training of deep residual neural networks[J]. SIAM Journal on Mathematics of Data Science, 2020, 2(1): 1-23.
 
 Parpas P, Muir C. Predict Globally, Correct Locally: Parallel-in-Time Optimal Control of Neural Networks. arXiv:1902.02542.
 
@@ -89,7 +93,7 @@ neural stochastic differential equation arXiv:1905.11065
 
 Wang B, Yuan B, Shi Z, et al. Enresnet: Resnet ensemble via the feynman-kac formalism. arXiv preprint arXiv:1811.10745, 2018.
 
-
+Li X, Wong T K L, Chen R T Q, et al. Scalable Gradients for Stochastic Differential Equations[J]. arXiv preprint arXiv:2001.01328, 2020.
 
 #### Theoritical Papers
 
@@ -144,6 +148,8 @@ ANODEV2: A Coupled Neural ODE Framework arXiv:1906.04596
 
 Port-Hamiltonian Approach to Neural Network Training CDC19
 
+How to train your neural ODE arXiv:2002.02798 By Chris Finlay, Jörn-Henrik Jacobsen, Levon Nurbekyan, Adam M Oberman
+
 #### Image Processing
 
 
@@ -170,4 +176,7 @@ Liu R, Lin Z, Zhang W, et al. Learning PDEs for image restoration via optimal co
 
 Liu G H, Theodorou E A. Deep learning theory review: An optimal control and dynamical systems perspective[J]. arXiv preprint arXiv:1908.10920, 2019.
 
+#### 3d Vision
+
+He X, Cao H L, Zhu B. AdvectiveNet: An Eulerian-Lagrangian Fluidic reservoir for Point Cloud Processing[J]. arXiv preprint arXiv:2002.00118, 2020.
 
